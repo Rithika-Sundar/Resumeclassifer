@@ -1,0 +1,51 @@
+resume_text,label
+"Developed ML models with pandas and scikit-learn, visualized data using matplotlib",Data Scientist
+"Built classification models using logistic regression and decision trees",Data Scientist
+"Cleaned datasets with Python, used seaborn and pandas for data visualization",Data Scientist
+"Performed exploratory data analysis and prediction modeling in Jupyter notebooks",Data Scientist
+"Worked on NLP tasks using NLTK and TensorFlow",Data Scientist
+"Used machine learning to predict student performance and detect anomalies",Data Scientist
+"Trained deep learning models using PyTorch and Keras for image classification",Data Scientist
+"Built a dashboard using Streamlit to visualize model predictions",Data Scientist
+"Performed time-series forecasting using ARIMA and LSTM models",Data Scientist
+"Analyzed structured data for trends using NumPy and Matplotlib",Data Scientist
+"Created responsive web pages using React and Tailwind CSS",Frontend Developer
+"Worked on component-based development using React and Redux",Frontend Developer
+"Styled pages using SCSS and Bootstrap for mobile-first web apps",Frontend Developer
+"Used JavaScript and JSX to build dynamic interfaces",Frontend Developer
+"Created portfolio websites and landing pages using HTML and CSS",Frontend Developer
+"Integrated REST APIs into frontend using Axios and React hooks",Frontend Developer
+"Developed dashboards with chart.js and d3.js",Frontend Developer
+"Designed modern UI interfaces with Material-UI and React Router",Frontend Developer
+"Built real-time chat interface using Socket.io and React",Frontend Developer
+"Developed product listing page with filtering and animations",Frontend Developer
+"Created server APIs using Node.js and Express.js",Backend Developer
+"Connected MongoDB and Mongoose for CRUD operations",Backend Developer
+"Handled user authentication using JWT and bcrypt",Backend Developer
+"Created RESTful APIs for an ecommerce application",Backend Developer
+"Managed user sessions and access control in backend",Backend Developer
+"Developed middleware for validating API requests",Backend Developer
+"Built backend logic for quiz app with timers and score tracking",Backend Developer
+"Designed and documented APIs using Swagger",Backend Developer
+"Created backend services using Express.js and integrated with frontend",Backend Developer
+"Handled error logging and API rate limiting",Backend Developer
+"Designed app screens in Figma and prototyped flows for user testing",UI/UX Designer
+"Worked with Adobe XD to create mobile app mockups",UI/UX Designer
+"Conducted usability testing and applied feedback for better UX",UI/UX Designer
+"Designed landing pages and A/B test variations for campaigns",UI/UX Designer
+"Created design systems and reusable UI components",UI/UX Designer
+"Collaborated with developers to implement pixel-perfect designs",UI/UX Designer
+"Used tools like Zeplin and InVision for design handoff",UI/UX Designer
+"Created wireframes and high-fidelity prototypes",UI/UX Designer
+"Used user personas and journey maps to guide design choices",UI/UX Designer
+"Built interactive prototypes using Figma auto-animate",UI/UX Designer
+"Configured Jenkins for CI/CD pipelines",DevOps Engineer
+"Built and deployed Docker containers to AWS EC2",DevOps Engineer
+"Monitored servers using Prometheus and Grafana",DevOps Engineer
+"Wrote infrastructure-as-code scripts with Terraform",DevOps Engineer
+"Used GitHub Actions for continuous integration and deployment",DevOps Engineer
+"Set up Nginx reverse proxy and load balancing",DevOps Engineer
+"Created shell scripts for automation tasks",DevOps Engineer
+"Managed Kubernetes clusters and deployed microservices",DevOps Engineer
+"Integrated SonarQube for static code analysis",DevOps Engineer
+"Worked on log analysis using ELK stack",DevOps Engineer
